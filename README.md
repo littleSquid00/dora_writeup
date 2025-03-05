@@ -10,9 +10,9 @@ Hi! My name is Dora. You will be my assistant 'Dora 0.1'. Can you help me find t
 
 <img src="rsc/basejungle.jpeg" alt="basejungle" width="400">
 
-![Recording1](https://github.com/user-attachments/assets/a2cf4884-fcb3-4f22-b9fb-9db4ee292030)
+<video src="https://github.com/user-attachments/assets/c5789759-192e-4882-912c-adb82b40e3f4"></video>
 
-![Recording2](https://github.com/user-attachments/assets/0b445857-6e71-4dce-bc6f-e068ea471c0c)
+<video src="https://github.com/user-attachments/assets/8efb42a0-e567-461b-892a-355dce6ede28"></video>
 
 ## Solution
 
