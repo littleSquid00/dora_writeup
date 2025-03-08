@@ -22,7 +22,7 @@ Hi! My name is Dora. You will be my assistant 'Dora 0.1'. Can you help me find t
 
 <img src="rsc/treasureChest.png" alt="basejungle" width="400">
 
-\* In Recording1.wav , you will hear Dora saying “listen with your eyes, Dora 0.1” & In Recording2.wav, you will hear beeping sound.
+- In Recording1.wav , you will hear Dora saying “listen with your eyes, Dora 0.1” & In Recording2.wav, you will hear beeping sound. **This is not the morse code. It is a Spectrogram!**
 
 (3) Use tools such as audacity, sonic visualizer to be able to see Ceaser cipher text from Recording2.wav
 
